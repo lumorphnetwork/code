@@ -10,7 +10,7 @@ Lumorph-CL accepts command-line arguments for the number of GPUs and the collect
 ## Usage
 
 ```python
-python task_graph.py --gpus <number of GPUs> --algorithm <algorithm to use> --model <model to use>
+python taskgraph_schedule.py --gpus <number of GPUs> --algorithm <algorithm to use> --model <model to use>
 ```
 
 ## Arguments
